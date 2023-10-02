@@ -35,7 +35,7 @@ const About = () => {
             qui hic optio a doloribus deserunt sequi exercitationem totam
             possimus. Explicabo sequi eligendi soluta et nesciunt repellat,
             velit ratione repellendus vitae, assumenda ad saepe, odio dolore
-            laboriosam quibusdam necessitatibus dicta id sapiente animi
+            laboriosam quibusdam necessitatibus dicta id sapiente animi sasd
             possimus!
           </p>
 
