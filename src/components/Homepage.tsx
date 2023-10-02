@@ -3,7 +3,7 @@ const Homepage = () => {
     <div className="flex h-screen w-full items-center justify-evenly px-2 ">
       <div>
         <p className="text-lg">hey, I'm</p>
-        <h1 className="text-5xl sm:text-6xl">Minard Parilla</h1>
+        <h1 className="text-5xl sm:text-6xl">Minard Parilsla</h1>
         <div className="flex items-center justify-evenly">
           <p className="text-xl sm:text-2xl">Fullstack Developer</p>
           <a
