@@ -1,12 +1,7 @@
 import "./App.css"
-import Index from "./components/Index"
 
 const App = () => {
-  return (
-    <>
-      <Index />
-    </>
-  )
+  return <></>
 }
 
 export default App
