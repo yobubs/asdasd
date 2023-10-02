@@ -37,6 +37,7 @@ const About = () => {
             velit ratione repellendus vitae, assumenda ad saepe, odio dolore
             laboriosam quibusdam necessitatibus dicta id sapiente animi sasd
             possimus!
+            <p>hello</p>
           </p>
 
           <h1 className="mt-5 text-lg">Web development stack I know: </h1>
